@@ -17,7 +17,7 @@ A back end for an e-commerce site using Express.js API Sequelize, interacting wi
 ![Screenshot](https://github.com/ChristopherBz/Employee-Management-System/blob/1adb5f2339cbbed5bcb2551455b6d3792646045d/Notes/walkthrough.gif)
 
 ### Tutorial
-View the how to video here: https://drive.google.com/file/d/1jlWMwJRep34QJVZ_fWEDNSdAUT4c1PSN/view
+View the how to video here: https://drive.google.com/file/d/1h-SI394L8KfPJk-403mQgCZytwOaKkmT/view
 
 ### User-Story
 AS A manager at an internet retail company  
