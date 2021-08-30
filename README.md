@@ -39,12 +39,9 @@ Use Insomnia on 'localhost:3001/api/' to interact with the database.
 
 ## Technology
 
-1. Node.js :
-
+1. Node.js:  
 Node.js is an open-source and cross-platform JavaScript runtime environment.
-
 A Node.js app is run in a single process, without creating a new thread for every request.
-
 Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking.
 
 2. Sequelize:  
